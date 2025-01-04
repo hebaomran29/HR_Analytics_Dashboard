@@ -1,7 +1,4 @@
-# HR_Analytics_Dashboard
-# HR_Analytics_Dashboard
 # HR Analytics Dashboard  
-
 
 ## **Overview**
 The HR Analytics Dashboard is a data visualization project built using **Power BI**. It is designed to analyze various HR metrics such as employee turnover, satisfaction, performance, and recruitment efficiency. The dashboard helps HR professionals make data-driven decisions to improve organizational performance.
